@@ -1,0 +1,1 @@
+global.Deathcounter=0
